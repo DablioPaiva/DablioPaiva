@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Engenharia de Software** na <a href="https://www.universidadedevassouras.edu.br/">Universidade de Vassouras</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário em Deesenvolvimento de Software** na <a href="https://www.dmslog.com/">DMS Logistics</a>
+- 💼 &nbsp; Trabalhando como **Estagiário em Desenvolvimento de Software** na <a href="https://www.dmslog.com/">DMS Logistics</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
